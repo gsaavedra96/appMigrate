@@ -1,5 +1,7 @@
 {
   "name": "WilsterAPP",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
